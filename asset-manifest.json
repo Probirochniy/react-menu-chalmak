@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-menu-chalmak/static/css/main.ecdbf0a9.css",
-    "main.js": "/react-menu-chalmak/static/js/main.35b20c8c.js",
+    "main.js": "/react-menu-chalmak/static/js/main.2e4066a7.js",
     "static/js/787.e7cf6d14.chunk.js": "/react-menu-chalmak/static/js/787.e7cf6d14.chunk.js",
     "static/media/пряный салат из рукколы с креветками.jpg": "/react-menu-chalmak/static/media/пряный салат из рукколы с креветками.5d6b27f89f9773d2743e.jpg",
     "static/media/американо.jpg": "/react-menu-chalmak/static/media/американо.72e6ff9102f1417a6078.jpg",
@@ -56,13 +56,14 @@
     "static/media/thx_w.png": "/react-menu-chalmak/static/media/thx_w.d12acd79923afc6e431f.png",
     "static/media/thx_b.png": "/react-menu-chalmak/static/media/thx_b.48857822b1b0964eeefd.png",
     "static/media/3081797.png": "/react-menu-chalmak/static/media/3081797.b36ffd47d36a4da60031.png",
+    "static/media/logo.svg": "/react-menu-chalmak/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-menu-chalmak/index.html",
     "main.ecdbf0a9.css.map": "/react-menu-chalmak/static/css/main.ecdbf0a9.css.map",
-    "main.35b20c8c.js.map": "/react-menu-chalmak/static/js/main.35b20c8c.js.map",
+    "main.2e4066a7.js.map": "/react-menu-chalmak/static/js/main.2e4066a7.js.map",
     "787.e7cf6d14.chunk.js.map": "/react-menu-chalmak/static/js/787.e7cf6d14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecdbf0a9.css",
-    "static/js/main.35b20c8c.js"
+    "static/js/main.2e4066a7.js"
   ]
 }
