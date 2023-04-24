@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-menu-chalmak/static/css/main.5249c59b.css",
-    "main.js": "/react-menu-chalmak/static/js/main.ec82f93b.js",
+    "main.js": "/react-menu-chalmak/static/js/main.b1e9c19e.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-chalmak/static/js/787.dd8d5867.chunk.js",
     "static/media/cheeseburger.jpg": "/react-menu-chalmak/static/media/cheeseburger.afb77595527c2d0ebfc6.jpg",
     "static/media/chalmak.jpg": "/react-menu-chalmak/static/media/chalmak.74eb6b5c34bcbadcc01b.jpg",
@@ -13,6 +13,7 @@
     "static/media/summer.jpg": "/react-menu-chalmak/static/media/summer.414953e41e6a964afe11.jpg",
     "static/media/nuggets.jpg": "/react-menu-chalmak/static/media/nuggets.20d1d04efb95c40245d1.jpg",
     "static/media/wings.jpg": "/react-menu-chalmak/static/media/wings.5ff5cf109770c290a57d.jpg",
+    "static/media/pouret.jpg": "/react-menu-chalmak/static/media/pouret.c2c98fd240e2c5650120.jpg",
     "static/media/fries.jpg": "/react-menu-chalmak/static/media/fries.efe95eb6b3a873d73d60.jpg",
     "static/media/mushroom.jpg": "/react-menu-chalmak/static/media/mushroom.24c15dedb72c0fb38880.jpg",
     "static/media/tom yum.jpg": "/react-menu-chalmak/static/media/tom yum.34f2e46284e555d1bf7d.jpg",
@@ -25,11 +26,11 @@
     "static/media/Giros_beef.jpeg": "/react-menu-chalmak/static/media/Giros_beef.a1d03fc64b8c9ad7e7af.jpeg",
     "index.html": "/react-menu-chalmak/index.html",
     "main.5249c59b.css.map": "/react-menu-chalmak/static/css/main.5249c59b.css.map",
-    "main.ec82f93b.js.map": "/react-menu-chalmak/static/js/main.ec82f93b.js.map",
+    "main.b1e9c19e.js.map": "/react-menu-chalmak/static/js/main.b1e9c19e.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-chalmak/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5249c59b.css",
-    "static/js/main.ec82f93b.js"
+    "static/js/main.b1e9c19e.js"
   ]
 }
