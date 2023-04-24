@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-menu-chalmak/static/css/main.5249c59b.css",
-    "main.js": "/react-menu-chalmak/static/js/main.43b47c18.js",
+    "main.js": "/react-menu-chalmak/static/js/main.fca4cf57.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-chalmak/static/js/787.dd8d5867.chunk.js",
     "static/media/thx_w.png": "/react-menu-chalmak/static/media/thx_w.d12acd79923afc6e431f.png",
     "static/media/thx_b.png": "/react-menu-chalmak/static/media/thx_b.48857822b1b0964eeefd.png",
@@ -10,11 +10,11 @@
     "static/media/Giros_beef.jpeg": "/react-menu-chalmak/static/media/Giros_beef.a1d03fc64b8c9ad7e7af.jpeg",
     "index.html": "/react-menu-chalmak/index.html",
     "main.5249c59b.css.map": "/react-menu-chalmak/static/css/main.5249c59b.css.map",
-    "main.43b47c18.js.map": "/react-menu-chalmak/static/js/main.43b47c18.js.map",
+    "main.fca4cf57.js.map": "/react-menu-chalmak/static/js/main.fca4cf57.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-chalmak/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5249c59b.css",
-    "static/js/main.43b47c18.js"
+    "static/js/main.fca4cf57.js"
   ]
 }
